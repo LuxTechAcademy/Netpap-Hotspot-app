@@ -1,0 +1,44 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	height: 100vh !important;
+	font-family: 'Roboto'
+
+}
+
+
+.header{
+	padding-top: 40px;
+}
+
+
+.btn-data{
+	height: 50px;
+	width: 160px;
+	background-color: teal; /*#001f3f;*/
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+	border-radius: 6px;
+}
+
+
+#second{
+	padding-bottom: 10px;
+	margin-bottom: 40px;
+}
+
+
+.main-app{
+	margin-top: -130px;
+	display: grid;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+}
+ 
+
+ .redirect{
+ 	text-decoration: none;
+ 	color: white;
+ }

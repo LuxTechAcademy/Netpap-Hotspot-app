@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="38px" viewBox="0 0 44 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_signal_wifi_off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="HTML5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Other/Switch-to-MNO" transform="translate(-82.000000, -178.000000)">
+            <g id="Group-2" transform="translate(82.000000, 172.000000)">
+                <g id="ic_signal_wifi_off" transform="translate(0.000000, 4.000000)">
+                    <g id="Icon-24px">
+                        <polygon id="Shape" points="0 0 44 0 44 44 0 44"></polygon>
+                        <path d="M43.34,12.8333333 C42.515,12.21 34.3016667,5.5 22,5.5 C19.25,5.5 16.7016667,5.84833333 14.3916667,6.38 L33.33,25.3 L43.34,12.8333333 L43.34,12.8333333 Z M31.24,27.9033333 L5.995,2.64 L3.66666667,4.98666667 L7.425,8.76333333 C3.50166667,10.56 1.08166667,12.5033333 0.66,12.8333333 L21.9816667,39.3983333 L22,39.4166667 L22.0183333,39.3983333 L29.1683333,30.4883333 L35.255,36.575 L37.5833333,34.2466667 L31.24,27.9033333 L31.24,27.9033333 Z" id="Shape" fill-opacity="0.54" fill="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

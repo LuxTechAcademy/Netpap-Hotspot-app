@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="9px" viewBox="0 0 65 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="HTML5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Other/Switch-to-MNO" transform="translate(-149.000000, -191.000000)" fill="#878787" stroke="#878787" stroke-width="2">
+            <g id="Group-2" transform="translate(82.000000, 172.000000)">
+                <path d="M68.5,23.5 L127.5,23.5" id="Line"></path>
+                <path id="Line-decoration-1" d="M127.5,23.5 L116.7,20.5 L116.7,26.5 L127.5,23.5 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
