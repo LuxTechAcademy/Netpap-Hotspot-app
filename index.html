@@ -8,8 +8,11 @@
     	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-PJRNZW5'); 
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefor e(j,f);
+	     /* Replace the <Google tag manager container id> with the one on your account */
+	        })(window,document,'script','dataLayer','<Google tag manager container id>');
+	     /* })(window,document,'script','dataLayer','GTM-PJRNZW5'); */			     
+		
 	</script>
 
 	<!-- End Google Tag Manager -->
@@ -28,16 +31,6 @@
 	<!--Web manifest  -->
 	<link rel="manifest" href="manifest.webmanifest">
 
-	<!-- Google Tag Manager when javascript is disabled -->
-    <script>
-    	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-PJRNZW5'); 
-	</script>
-	<!-- End Google Tag Manager -->
-
 	<!-- Load page Service worker -->
 	<script type="text/javascript">
 	//register the Service Worker
@@ -54,15 +47,13 @@
 <body>
 	<!-- Google Tag Manager (noscript) -->
     <noscript>
-		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJRNZW5" height="0" width="0" style="display:none;visibility:hidden">
-			
-		</iframe>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJRNZW5" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
    <!-- End Google Tag Manager (noscript) -->
 
 
 	<!-- nav Container  -->
-	<nav class="main-menu">
+	<nav cla ss="main-menu">
 		<!-- logo icons and text -->
 		<div class="logo">
 			<h2 class="logo">
